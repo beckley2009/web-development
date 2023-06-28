@@ -1,0 +1,12 @@
+.first{
+    background-color: blue;
+    width: 120px;
+    height: 200px;
+}
+
+.blue{
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+    border: 2px solid white;
+}
